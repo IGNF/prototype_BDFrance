@@ -1,2 +1,3 @@
 # prototype_BDFrance
-C'est un prototype à destination de test utilisateur pour tester la compréhension de BDFrance. 
+Prototype HTML interactif présentant l’offre BD France.
+Il sert de support aux tests utilisateurs pour évaluer la compréhension de cette offre.
